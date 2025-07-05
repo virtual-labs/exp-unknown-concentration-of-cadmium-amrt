@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+     {
+      "question": "Limiting current in polarogram means",
+      "answers": {
+        "a": "The sum of the diffusion residual current.",
+        "b": "Average diffusion current during the life of the drop.",
+        "c": "The current that exist in between the limiting diffusion plateau and the residual current.",
+        "d": "Non faradaic current at the foot of the wave."
+      },
+      "explanations": {
+        "a": "Correct. The limiting current is primarily the diffusion current, which includes the residual component.",
+        "b": "Not entirely accurate; diffusion current is the main component but not just the average.",
+        "c": "Describes the diffusion current range but not the definition of limiting current.",
+        "d": "This defines residual current, not limiting current."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Ilkovic equation can be best described by the equation:",
+      "answers": {
+        "a": "id = 78 n D²⁄³ m³⁄² t²⁄³ c",
+        "b": "id = 708 n D¹⁄² m²⁄³ t¹⁄⁶ c",
+        "c": "id = 708 n D²⁄³ m¹⁄² t¹⁄⁶ c",
+        "d": "id = 78 n D²⁄³ m¹⁄² t¹⁄³ c"
+      },
+      "explanations": {
+        "a": "Incorrect form, coefficients and powers are inaccurate.",
+        "b": "Incorrect exponent format and constants.",
+        "c": "Correct form of Ilkovic equation (standard version).",
+        "d": "Close but incorrect constant."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "In polarographic technique the formation of the new drop is controlled by",
+      "answers": {
+        "a": "Auxillary electrode",
+        "b": "Platinum electrode",
+        "c": "Polarographic cell",
+        "d": "Capillary tube"
+      },
+      "explanations": {
+        "a": "Used in the setup but not involved in drop formation.",
+        "b": "Common electrode but unrelated to drop control.",
+        "c": "Describes the container, not the drop mechanism.",
+        "d": "Correct. The capillary tube controls the mercury drop formation."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
