@@ -61,21 +61,21 @@ Since there is an increased flow of current at the starting region of the polaro
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; text-align: center;">
 <div style="max-width: 600px;">
-<img src="./images/figure4.jpg" alt="Figure 4" style="width: 100%; height: auto;">
+<img src="./images/figure4.jpg" alt="Figure 4" height="200 px">
 <p style="font-size: smaller; font-style: italic;">Polarographic cell </p>
 </div>
 <div style="max-width: 600px;">
-<img src="./images/figure5.jpg" alt="Figure 5" style="width: 100%; height: auto;">
+<img src="./images/figure5.jpg" alt="Figure 5" height="200 px">
 <p style="font-size: smaller; font-style: italic;">Tygon tube with mercury</p>
 </div></div>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; text-align: center;">
 <div style="max-width: 600px;">
-<img src="./images/figure6.jpg" alt="Figure 6" style="width: 100%; height: auto;">
+<img src="./images/figure6.jpg" alt="Figure 6" height="200 px">
 <p style="font-size: smaller; font-style: italic;">Reference electrode (Saturated calomel electrode)</p>
 </div>
 <div style="max-width: 600px;">
-<img src="./images/figure7.jpg" alt="Figure 7" style="width: 100%; height: auto;">
+<img src="./images/figure7.jpg" alt="Figure 7" height="200 px">
 <p style="font-size: smaller; font-style: italic;">Auxillary electrode (Platinum electrode)</p>
 </div></div>
 
