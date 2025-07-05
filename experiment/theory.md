@@ -11,7 +11,7 @@
 Jaroslav Heyrovsky received Nobel Prize in chemistry in 1959 for his discovery and development of the polarographic methods of analysis. He is known as the father of electroanalytical method. Polarographic method directly contributed to the development of innovative ideas in electrochemical techniques, instrumentation and applications.
 
 
-<div style="display: block; margin-left: auto; margin-right: auto; text-align: center; width: fit-content;"><img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 600px; height: auto;"><p style="text-align: center; font-size: smaller; font-style: italic;"><strong>Jaroslav Heyrovský</strong>strong></p></div>
+<div style="display: block; margin-left: auto; margin-right: auto; text-align: center; width: fit-content;"><img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 600px; height: auto;"><p style="text-align: center; font-size: smaller; font-style: italic;"><strong>Jaroslav Heyrovský</strong></p></div>
 
 
 
