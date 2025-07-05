@@ -1,38 +1,38 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "Which of the following the polarography different from voltammetry?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Helps in determining the electrolysis action of solutions of electroreducible substances.",
+        "b": "The working electrode takes the form of a dropping mercury electrode.",
+        "c": "All the above.",
+        "d": "Helps in determining the electrolysis action of solutions of electrooxidisable substances."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Polarography does analyze electroreducible substances, but it's not the only difference.",
+        "b": "This is a specific characteristic of polarography.",
+        "c": "Correct. Polarography differs by both analyzing electroreducible/oxidisable substances and using a DME.",
+        "d": "Only partially correct. Polarography includes more distinctive features."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Characteristic features of a polarogram is/are",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Sigmoid in shape",
+        "b": "Obtained by plotting the current versus potential response.",
+        "c": "Difference exists between potential of reference electrode and DME.",
+        "d": "All the above."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct, polarograms are typically S-shaped.",
+        "b": "Yes, that’s how polarograms are generated.",
+        "c": "Yes, this is true in polarographic setups.",
+        "d": "Correct. All listed are features of a polarogram."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
